@@ -1,4 +1,4 @@
-# TripMate_
+# Trip_Mate
 This is our project for Bhack 2020
 
 
