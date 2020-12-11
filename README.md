@@ -10,7 +10,8 @@ Tripmate is your travelling buddy. An app which takes care of all the necessary 
 
 
 OUR TEAM
-Sanket Mundra		
-Harsh Bajaj		
-Raunak Rathour	
+
+Sanket Mundra
+Harsh Bajaj
+Raunak Rathour
 Prateek Mishra	
